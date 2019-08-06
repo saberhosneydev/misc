@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" },
+	{ "keys": ["alt+f"], "command": "find_use" },
+	{ "keys": ["ctrl+shift+n"], "command": "advanced_new_file_new"}
+]

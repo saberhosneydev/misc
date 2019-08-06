@@ -1,0 +1,8 @@
+"A File Icon",
+		"AdvancedNewFile",
+		"Emmet",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Companion",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
