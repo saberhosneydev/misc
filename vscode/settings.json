@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.fontFamily": "Input, monospace",
+    "editor.fontSize": 15,
+    "window.zoomLevel": 0,
+    "phpformatter.composer": true,
+    "unibeautify.defaultConfig": "C:\\Apache24\\htdocs\\.unibeautifyrc.json",
+    "[html]": {
+        "editor.defaultFormatter": "Glavin001.unibeautify-vscode"
+    }
+}
