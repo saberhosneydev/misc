@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Copy Relative Path",
+		"Emmet",
+		"FileIcons",
+		"JavaImports",
+		"LESS",
+		"MarkdownPreview",
+		"Material Theme",
+		"One Dark Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"Theme - One Dark"
+	],
+	"repositories":
+	[
+	]
+}
