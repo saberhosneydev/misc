@@ -12,5 +12,6 @@
         "autoprefixer": "cover 99.5%, last 2 versions"
     },
     "prettier.tabWidth": 4,
-    "prettier.useTabs": true
+    "prettier.useTabs": true,
+    "files.autoSaveDelay": 100
 }
