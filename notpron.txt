@@ -4,15 +4,15 @@
 4 http://notpron.org/notpron/false/gototheothersite.htm
 5 http://notpron.org/notpron/true/gototheothersite.htm voodoo / magic
 6 http://notpron.org/notpron/google/shestheoneforme.php simple / songs
-7 http://notpron.org/notpron/nothing/hesgotitall.php kill / hour
+7 http://notpron.org/notpron/nothing/hesgotitall.php kill / zone
 8 http://notpron.org/notpron/sdrawkcab/tieman.htm change it to rediar.htm (try incorrect spelling of rediar.htm)
-9 http://notpron.org/notpron/sdrawkcab/rediar.htm inverted / levelten 
+9 http://notpron.org/notpron/sdrawkcab/rediar.htm inverted / tenthlevel 
 10 http://notpron.org/notpron/luv2music/paulisdead.htm turnmeon / deadman
 11 http://notpron.org/notpron/wrong/roawr.htm grey / world
 12 http://notpron.org/notpron/reality/mystery.htm fucking / pans
 13 http://notpron.org/notpron/blame/crossview.htm remote / control
 14 http://notpron.org/notpron/ps/afterdeath.htm devil / hell (try afterlife.htm)
-15 http://notpron.org/notpron/neo/beenthere.htm déjà / vu
+15 http://notpron.org/notpron/neo/beenthere.htm dÃ©jÃ  / vu
 15 http://notpron.org/notpron/rusty/board.htm random / shit
 16 http://notpron.org/notpron/zoo/mznvh.htm doom / murder
 17 http://notpron.org/notpron/finale/pron.htm change pron.htm to lamp.htm (try ufo/egg.htm)
@@ -36,7 +36,7 @@ http://deathball.net/notpron/screen30/eisenhuettenstadt.htm
 32 http://deathball.net/notpron/screen30/hirstein.htm
 33 http://deathball.net/notpron/screen30/notvaticananymore.htm
 34 http://deathball.net/notpron/screen30/kewlday.htm
-35 http://deathball.net/notpron/screen30/unleadedfuel.htm searching google earth for 28°23'46''N then zoom until you get the password . press on keyhole type in .
+35 http://deathball.net/notpron/screen30/unleadedfuel.htm searching google earth for 28Â°23'46''N then zoom until you get the password . press on keyhole type in .
 36 http://deathball.net/notpron/nomeaning/ mickey / mouse try to navigate to 36tbh.psd because of psd tags . next link live inside it .
 37 http://deathball.net/notpron/nomeaning/evolve.htm
 http://deathball.net/notpron/nomeaning/elvis.htm
