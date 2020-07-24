@@ -1,6 +1,5 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"font_face": "Jetbrains Mono",
 	"font_size": 13,
 	"ignored_packages":
@@ -11,6 +10,5 @@
 	"line_padding_top": 3,
 	"save_on_focus_lost": true,
 	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }

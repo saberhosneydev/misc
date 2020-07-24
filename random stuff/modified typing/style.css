@@ -1,0 +1,41 @@
+@import "compass";
+body {
+  font-family: 'Orbitron', sans-serif;
+  color: #009688;
+  background: #FFF;
+  font-size: 62.5%;
+}
+h1 {
+  font-size: 3em;
+  
+  @media screen and (max-width: 480px) {
+    font-size: 2em;
+  }
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.logo-tag {
+  font-size: 1.5em;
+  text-shadow: 0 0 30px rgba(0, 150, 136, 0.4);
+}
+
+.text-cursor {
+  opacity: 1;
+  animation: cursor-flash 1.6s infinite;
+}
+
+@keyframes cursor-flash {
+    49% {opacity: 1;}
+    50% {opacity: 0;}
+    99% {opacity: 0;}
+    100% {opacity: 1;}
+}

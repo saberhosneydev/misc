@@ -1,0 +1,26 @@
+.filler {
+  padding: 10vh;
+}
+.hide {
+  display: none;
+}
+.fa-facebook {
+  color: #4267B2;
+}
+.fa-twitch {
+  color: #4B367C;
+}
+
+.fa-twitter {
+  color: #4AB3F4;
+}
+
+.fa-reddit {
+  color: #FF4500;
+}
+.fa-github {
+  color: #24292E;
+}
+.fa-youtube {
+  color: #FF0000;
+}

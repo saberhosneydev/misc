@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Title</title>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="facebookLikes.json"></script>
+	<script type="text/javascript" src="mylist.js"></script>
+</head>
+<body>
+<ul id="myList">
+	
+</ul>
+
+<script type="text/javascript">
+	var loc = jero;
+
+	for (var i = 0; i < loc.length; i++) {
+		var lil = document.createElement('li');
+		lil.innerHTML = "<a href='" + loc[i].pageUrl + "' target='_blank' >" + loc[i].pageName + "</a>";
+		document.getElementById('myList').appendChild(lil);	
+	}
+</script>
+</body>
+</html>
